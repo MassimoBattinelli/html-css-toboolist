@@ -1,3 +1,7 @@
+html {
+    margin: 0 auto;
+}
+
 body{
     font-family:sans-serif;
 }
@@ -8,13 +12,9 @@ body{
 }
 
 .spaziobottoni{
-    margin: 70px 100px 100px 100px;
-    /*padding: 70px 10px 10px 10px;*/
+    /*margin: 70px 100px 100px 100px;*/
     vertical-align:middle;
-}
-
-.sfondo{
-    background-color: lightgray;
+    height: 100px;
 }
 
 .page-header{
@@ -81,3 +81,4 @@ body{
     color: white;
     border-radius: 5px;
 }
+
