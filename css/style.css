@@ -46,42 +46,42 @@ body{
 .editorial{
     background-color: deepskyblue;
     color: white;
-    border-radius: 5px;
+    border-radius: 8px;
     border-color: deepskyblue;
 }
 
 .goals{
     background-color:rebeccapurple;
     color: white;
-    border-radius: 5px;
+    border-radius: 8px;
     border-color: rebeccapurple;
 }
 
 .recruiting{
     background-color: green;
     color: white;
-    border-radius: 5px;
+    border-radius: 8px;
     border-color: green;
 }
 
 .mobile{
     background-color: orange;
     color: white;
-    border-radius: 5px;
+    border-radius: 8px;
     border-color: orange;
 }
 
 .website{
     background-color: purple;
     color: white;
-    border-radius: 5px;
+    border-radius: 8px;
     border-color: purple;
 }
 
 .sales{
     background-color:greenyellow;
     color: white;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 section{
@@ -90,45 +90,11 @@ section{
 
 .check{
     color: green;
+    margin: 10px;
     
 }
 
 .cross{
     color: red;
-}
-
-.quart{
-    display: inline;
-}
-
-.recr{
-    display: inline;
-}
-
-.mob{
-    display: inline;
-}
-
-.inter{
-    display: inline;
-}
-
-.summ{
-    display: inline;
-}
-
-.sched{
-    display: inline;
-}
-
-.homep{
-    display: inline;
-}
-
-.onbo{
-    display: inline;
-}
-
-.review{
-    display: inline;
+    margin: 10px;
 }
