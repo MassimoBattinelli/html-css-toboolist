@@ -1,12 +1,83 @@
+body{
+    font-family:sans-serif;
+}
+
+.titolo{
+    font-size: 40px;
+    line-height: 1;
+}
+
 .spaziobottoni{
     margin: 70px 100px 100px 100px;
+    /*padding: 70px 10px 10px 10px;*/
+    vertical-align:middle;
 }
 
 .sfondo{
     background-color: lightgray;
 }
 
-.sfondoheader{
+.page-header{
     background-color: white;
-    height: 0 auto;
+}
+
+.sfondobody{
+    background-color: white;
+}
+
+.page-header img {
+    vertical-align: middle;
+}
+
+.page-header h1{
+    line-height: 1;
+    display: inline;
+    vertical-align: middle;
+}
+
+.enable{
+    border-radius: 5px;
+    background-color:deepskyblue;
+    color: white;
+}
+
+.disable{
+    border-radius: 5px;
+    color: grey;
+}
+
+.editorial{
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 5px;
+}
+
+.goals{
+    background-color:rebeccapurple;
+    color: white;
+    border-radius: 5px;
+}
+
+.recruiting{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+.mobile{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+}
+
+.website{
+    background-color: purple;
+    color: white;
+    border-radius: 5px;
+}
+
+.sales{
+    background-color:greenyellow;
+    color: white;
+    border-radius: 5px;
 }
