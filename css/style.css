@@ -43,45 +43,40 @@ body{
     border-color: grey;
 }
 
-.editorial{
-    background-color: deepskyblue;
+.label{
     color: white;
-    border-radius: 8px;
+    border-radius: 10px;
+    padding: 3px 4px;
+}
+
+ .editorial{
+    background-color: deepskyblue;
     border-color: deepskyblue;
 }
 
 .goals{
     background-color:rebeccapurple;
-    color: white;
-    border-radius: 8px;
     border-color: rebeccapurple;
 }
 
 .recruiting{
     background-color: green;
-    color: white;
-    border-radius: 8px;
     border-color: green;
 }
 
 .mobile{
     background-color: orange;
-    color: white;
-    border-radius: 8px;
     border-color: orange;
 }
 
 .website{
     background-color: purple;
-    color: white;
-    border-radius: 8px;
     border-color: purple;
 }
 
 .sales{
     background-color:greenyellow;
-    color: white;
-    border-radius: 8px;
+    border-color: greenyellow;
 }
 
 section{
@@ -98,3 +93,4 @@ section{
     color: red;
     margin: 10px;
 }
+
